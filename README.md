@@ -1,7 +1,8 @@
 # 🛒 Exploración de Factores de Comportamiento en NovaRetail+
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/8990acea-f64f-4469-b8b5-6dd6d256608d" />
 
-> **Proyecto de Análisis Correlacional y Exploratorio de Datos (EDA) Proyecto TripleTen.**  
+> **Proyecto de Análisis Correlacional y Exploratorio de Datos (EDA) Proyecto TripleTen.**
+> ![NovaRetail - Compras mensuales vs. ingreso anual](assets/portada-novaretail.png)
 > **Área:** Crecimiento y Retención | **Empresa:** NovaRetail+ (E-Commerce Latinoamérica)
 > 
 > **Autor:** Joel Serrato Guzman.  
